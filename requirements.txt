@@ -1,0 +1,3 @@
+python-telegram-bot[ext]>=20.7 # Or your preferred version
+APScheduler>=3.0.0 # For job queue
+# Babel # If you use pybabel for i18n .po/.mo file management
